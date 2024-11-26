@@ -1,0 +1,7 @@
+.env
+*.json
+*.csv
+csv/
+devices_json/
+networks_json/
+orgnizations_json/
